@@ -1,1 +1,1 @@
-# desingParttener
+# desingPatternes
